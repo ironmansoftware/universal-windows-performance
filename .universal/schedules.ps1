@@ -1,0 +1,1 @@
+﻿New-PSUSchedule -Script "Windows Performance\CollectStats.ps1" -Continuous -Delay ([System.TimeSpan]::FromSeconds(10)) -Name "Collect Performance Counters"

@@ -1,0 +1,1 @@
+﻿New-PSUDashboard -Name "Windows Performance" -FilePath "dashboards\Windows Performance\Windows Performance.ps1" -BaseUrl "/windows-performance" -Authenticated -AutoDeploy

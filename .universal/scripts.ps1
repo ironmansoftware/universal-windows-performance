@@ -1,0 +1,1 @@
+﻿New-PSUScript -Name "CollectStats.ps1" -Path "Windows Performance\CollectStats.ps1" -InformationAction "SilentlyContinue"
